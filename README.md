@@ -13,4 +13,4 @@
 + https://geekscripts.guru/daprofiler-create-profile-target-france/
 + https://pythonawesome.com/daprofiler-allows-you-to-create-a-profile-on-your-target-based-in-france-only/
 + https://raidforums.com/Thread-DaProfiler-a-CToS-Profiler-like-on-Github
-+ https://korben.info/osint-france-daprofiler.html
++ https://korben.info/osint-france-daprofiler.html .
